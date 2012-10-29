@@ -52,8 +52,7 @@ a:hover ,
 
 /* color for message */
 #main .message_wrapper,
-#collection .subcategory ,
-#product .extra_images ul {
+#collection .subcategory{
 	background-color:#f7f7f7;
 	border:1px solid #eee;
 }
